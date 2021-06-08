@@ -1,0 +1,27 @@
+<html>
+    <body>
+    <h2>Reflex agent</h2>
+    <div id="states" style="float: left; width:100%;">
+        <div id="A" style="float: left; width: 30%; border:1px solid black;">
+            <p>A      <button onclick="dirt(1)">Dirt!</button></p>
+          
+            <div id="a_dirt" style="float: left;"> <img src="img/dirt.png" alt="" width="80" /> </div>
+            <div id="a_cleaner" style="float: left;"> <img src="img/vac.png" alt=""width="80" /> </div>
+        </div>
+        <div id="B" style="float: left; width: 30%; border:1px solid black;">
+            <p>B      <button onclick="dirt(2)">Dirt!</button></p>
+            
+            <div id="b_dirt" style="float: left;"> <img src="img/dirt.png" alt="" width="80" /> </div>
+            <div id="b_cleaner" style="float: left;"> <img src="img/vac.png" alt=""width="80" /> </div>
+        </div>
+        <button onclick="random_dirt()">Start Random Dirt!</button>
+    </div>
+    <div style="float: left; width:100%;">
+        <p id="actualstatus"></p>
+        <p id="statesvisited"></p>
+        <p id="log">LOG:</p>
+    </div>
+   
+    <script type="text/javascript" src="01_reflex_agent.js"></script>
+    </body>
+</html>

@@ -4,7 +4,7 @@
 
 
 #### 01 Agente Reflex
--[01 Agente Reflex](https://github.com/rafalejy/IA1_Tareas/edit/main/01_reflex_agent.html)
+-[01 Agente Reflex](https://rafalejy.github.io/IA1_Tareas/01_reflex_agent.html)
 
 ### Markdown
 

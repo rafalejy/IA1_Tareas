@@ -4,5 +4,6 @@
 
 
 -[01 Agente Reflex -  Problema de la Aspiradora](https://rafalejy.github.io/IA1_Tareas/01_reflex_agent.html)
--[03 Costo Uniforme -  Problema del Viajero ](https://rafalejy.github.io/IA1_Tareas/03_CostoUniforme.html)
+
+-[03 Costo Uniforme -  Problema del Viajero ](https://rafalejy.github.io/IA1_Tareas/03_CostoUniforme.pdf)
 

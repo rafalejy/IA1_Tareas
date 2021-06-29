@@ -2,6 +2,7 @@
 ### Rafael Alejandro Juárez Yantuche
 ### 201021164
 
+-[ 00 DIPLOMAS ](https://rafalejy.github.io/IA1_Tareas/Diplomas)
 
 -[01 Agente Reflex -  Problema de la Aspiradora](https://rafalejy.github.io/IA1_Tareas/01_reflex_agent.html)
 
